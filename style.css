@@ -70,7 +70,7 @@ split.right .button:hover{
 
 .split.left{
     left:0;
-    background:url('img/gym.jpg') center center no-repeat;
+    background:url('gym.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -84,7 +84,7 @@ split.right .button:hover{
 
 .split.right{
     right:0;
-    background:url('img/food.jpeg') center center no-repeat;
+    background:url('food.jpeg') center center no-repeat;
     background-size: cover;
 }
 
